@@ -10,4 +10,4 @@ open index.html
 
 ## About
 
-travel journal
+travel journal - https://67087d13ddced9bb7cd96b58--whimsical-entremet-7693c7.netlify.app/
